@@ -24,16 +24,6 @@ Linux, Git, Vercel, Postman, VS Code, Figma
 
 ---
 
-## 🎯 Current Goals
-
-- ✅ Master **SystemVerilog** and digital design for industry-level VLSI roles  
-- 🔁 Develop advanced **firmware for STM32/ESP32-based IoT devices**  
-- 🌍 Contribute to impactful **open source projects**  
-- 🧪 Design and validate **low-power wireless communication circuits** for IoT  
-- 📚 Crack **core electronics/software roles** in product-based companies  
-
----
-
 ## 🏗️ Experience Highlights
 
 ### 🔹 VLSI Designer  
