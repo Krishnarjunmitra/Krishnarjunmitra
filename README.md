@@ -1,8 +1,7 @@
 # 👋 Hi, I'm Krishnarjun Mitra
 
 🎓 B.E. in Electronics & Telecommunication at Jadavpur University  
-🔬 VLSI Designer | 💡 Embedded Systems Researcher | 🖥️ Software Developer
-
+🖥️ Software Developer | 🔬 VLSI Designer | 💡 Embedded Systems Researcher | 🎸 Love Art and Musics
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" height="3">
 </p>
