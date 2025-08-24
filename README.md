@@ -154,6 +154,41 @@ Linux, Git, Vercel, Postman, VS Code, Figma
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" height="3">
 </p>
 
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=F7C52B&center=true&vCenter=true&width=600&height=70&lines=RTL+Design+Flow;Testbench+Driven+Verification;Waveform+Analysis;Schematic+Synthesis;Industry+Grade+Docs" alt="Typing SVG" />
+</div>
+
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/Krishnarjunmitra/Verilog-Projects">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Krishnarjunmitra&repo=Verilog-Projects&theme=tokyonight&hide_border=true" />
+      </a>
+    </td>
+    <td align="left" width="50%">
+      <h3>📂 Verilog-Projects</h3>
+      <p><strong>Modular RTL Design & Verification Library</strong></p>
+      <ul>
+        <li>✅ Synthesizable Verilog HDL</li>
+        <li>🧪 Functional Testbenches</li>
+        <li>📊 Waveform & Truth Table Outputs</li>
+        <li>📚 Markdown Reports & Style Guides</li>
+        <li>🏗️ Schematic & Synthesis Results</li>
+      </ul>
+      <p>
+        <a href="https://github.com/Krishnarjunmitra/Verilog-Projects">
+          <img src="https://img.shields.io/badge/View%20Repo-Click%20Here-blueviolet?style=for-the-badge&logo=verilog" />
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
+</div>
+
+
 ## 🏗️ Experience Highlights
 
 ### 🔹 VLSI Designer  
