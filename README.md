@@ -7,6 +7,7 @@
 # 👋 Hi, I'm Krishnarjun Mitra
 🎓 B.E. in Electronics & Telecommunication at Jadavpur University  
 🖥️ Software Developer | 🔬 VLSI Designer | 💡 Embedded Systems Researcher | 🎸 Love Art and Musics
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Krishnarjunmitra&label=Profile%20views&color=0e75b6&style=flat" alt="Krishnarjunmitra" /> </p>
 
 <div align="center">
 <p align="center">
@@ -236,7 +237,8 @@ Linux, Git, Vercel, Postman, VS Code, Figma
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krishnarjunmitra&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=36BCF7&text_color=c9d1d9" alt="Most Used Languages" />
 </div><br>
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Krishnarjunmitra&theme=juicyfresh&margin-w=15" />
+  <img src="https://github-profile-trophy-azure.vercel.app/?username=Krishnarjunmitra&theme=juicyfresh&margin-w=15
+" />
 </p>
 
 <div align="center">
