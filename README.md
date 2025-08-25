@@ -53,7 +53,7 @@ Scikit-learn, Pandas, NumPy
     <!-- Row 1: Core Hardware / EDA -->
     <tr>
       <td align="center">
-        <img src="https://static.bhphotovideo.com/explora/sites/default/files/cs_amd-announces-radeon-rx-6500-xt-and-more-at-2022-product-premiere_0.jpg" style="border-radius:10px;" width="48" height="48" alt="Vivado"/>
+        <img src="./assets/logos/vivado.jpg" style="border-radius:10px;" width="48" height="48" alt="Vivado"/>
         <br/>Vivado
       </td>
       <td align="center">
