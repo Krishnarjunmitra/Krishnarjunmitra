@@ -1,19 +1,25 @@
 <div align="center">
+<a align="center" href="https://github.com/Krishnarjunmitra">
+  <img src="./profile-face.png" width="140" style="border-radius:50%;" alt="Profile image - Krishnarjun Mitra"/>
+</a>
+</div>
+<div align="center">
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=40&duration=3000&pause=500&color=DDEB97&center=true&vCenter=true&width=600&height=60&lines=Welcome+to+my+Profile!" />
 </p>
 </div>
 
-# 👋 Hi, I'm Krishnarjun Mitra
-🎓 B.E. in Electronics & Telecommunication at Jadavpur University  
-🖥️ Software Developer | 🔬 VLSI Designer | 💡 Embedded Systems Researcher | 🎸 Love Art and Musics
+# 👋 Hie, I'm **Krishnarjun Mitra**
+
+- ### 🎓 B.E. in Electronics & Telecommunication at Jadavpur University
+- ### 🖥️ Software Developer | 🔬 VLSI Designer | 💡 Embedded Systems Researcher | 🎸 Love Art and Musics
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Krishnarjunmitra&label=Profile%20views&color=0e75b6&style=flat" alt="Krishnarjunmitra" /> </p>
 
 <div align="center">
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" height="3">
 </p>
-<p>
+<p align="center" valign="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&random=false&width=600&height=70&lines=VLSI+Designer;Embedded+Systems+Engineer;Full+Stack+Developer;Problem+Solver;Tech+Explorer" alt="Typing SVG" />
 </p>
 <p align="center">
@@ -21,22 +27,22 @@
 </p>
 </div>
 
-## 🔧 Skills Snapshot
+## 🔧 **Skills Snapshot**
 
-**Languages:**  
-Python, C, C++, Java, JavaScript, TypeScript, SQL, Verilog, SystemVerilog  
+**Hardware & EDA Tools:**  
+Vivado, Quartus, Synopsys, ModelSim, Arduino, MATLAB
 
-**Embedded & Hardware:**  
-STM32, ESP32, Arduino, ModelSim, Vivado, Xilinx FPGA, MATLAB, PCB Design (KiCad), Oscilloscope, Logic Analyzer  
+**Programming Languages:**  
+C, C++, Python, Verilog, SystemVerilog, JavaScript
 
-**Web & App Dev:**  
-React, Vite, TailwindCSS, Bootstrap, Node.js, Express.js, MongoDB, PostgreSQL, Firebase, EmailJS, Git API  
-
-**AI & Data Tools:**  
-Scikit-learn, Pandas, NumPy  
+**Web & App Development:**  
+React, Vite, TailwindCSS, Bootstrap, Express.js, MongoDB
 
 **Tools & Platforms:**  
-Linux, Git, Vercel, Postman, VS Code, Figma
+SQL, Vercel, Postman, Github, VS Code
+
+**AI & Data Tools:**  
+Scikit-learn, Pandas, NumPy
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" height="3">
@@ -44,6 +50,34 @@ Linux, Git, Vercel, Postman, VS Code, Figma
 
 <div align="center">
   <table>
+    <!-- Row 1: Core Hardware / EDA -->
+    <tr>
+      <td align="center">
+        <img src="https://static.bhphotovideo.com/explora/sites/default/files/cs_amd-announces-radeon-rx-6500-xt-and-more-at-2022-product-premiere_0.jpg" style="border-radius:10px;" width="48" height="48" alt="Vivado"/>
+        <br/>Vivado
+      </td>
+      <td align="center">
+        <img src="https://image.pngaaa.com/836/4783836-small.png" style="border-radius:10px;" width="48" height="48" alt="Intel Quartus"/>
+        <br/>Quartus
+      </td>
+      <td align="center">
+        <img src="https://tse1.mm.bing.net/th/id/OIP.d3tC6DkEcwAgJTwjz3cs9AAAAA?cb=thfc1&rs=1&pid=ImgDetMain&o=7&rm=3" style="border-radius:10px;" width="48" height="48" alt="Synopsys"/>
+        <br/>Synopsys
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=arduino" width="48" height="48" alt="Arduino"/>
+        <br/>Arduino
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=matlab" width="48" height="48" alt="MATLAB"/>
+        <br/>MATLAB
+      </td>
+      <td align="center">
+        <img src="https://tse4.mm.bing.net/th/id/OIP.VWr0AUVezAljNO-xSeP_VwAAAA?cb=thfc1&rs=1&pid=ImgDetMain&o=7&rm=3" style="border-radius:10px;" width="48" height="48" alt="Modelsim"/>
+        <br/>Modelsim
+      </td>
+    </tr>    
+    <!-- Row 2: Programming Languages -->
     <tr>
       <td align="center">
         <img src="https://skillicons.dev/icons?i=c" width="48" height="48" alt="C"/>
@@ -58,31 +92,20 @@ Linux, Git, Vercel, Postman, VS Code, Figma
         <br/>Python
       </td>
       <td align="center">
-        <img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java"/>
-        <br/>Java
+        <img src="https://eirikpre.gallerycdn.vsassets.io/extensions/eirikpre/systemverilog/0.13.11/1736203680374/Microsoft.VisualStudio.Services.Icons.Default" style="border-radius:10px;" width="48" height="48" alt="System verilog"/>
+        <br/>System Verilog
+      </td>
+      <td align="center">
+        <img src="./assets/logos/verilog.jpg" style="border-radius:10px;" width="48" height="48" alt="Verilog"/>
+        <br/>Verilog
       </td>
       <td align="center">
         <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript"/>
         <br/>JavaScript
       </td>
-      <td align="center">
-        <img src="https://skillicons.dev/icons?i=ts" width="48" height="48" alt="TypeScript"/>
-        <br/>TypeScript
-      </td>
-    </tr>
+    </tr>    
+    <!-- Row 3: Frameworks & Libraries -->
     <tr>
-      <td align="center">
-        <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="SQL"/>
-        <br/>SQL
-      </td>
-      <td align="center">
-        <img src="https://skillicons.dev/icons?i=arduino" width="48" height="48" alt="Arduino"/>
-        <br/>Arduino
-      </td>
-      <td align="center">
-        <img src="https://skillicons.dev/icons?i=matlab" width="48" height="48" alt="MATLAB"/>
-        <br/>MATLAB
-      </td>
       <td align="center">
         <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React"/>
         <br/>React
@@ -95,57 +118,44 @@ Linux, Git, Vercel, Postman, VS Code, Figma
         <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind"/>
         <br/>Tailwind
       </td>
-    </tr>
-    <tr>
       <td align="center">
         <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="Bootstrap"/>
         <br/>Bootstrap
-      </td>
-      <td align="center">
-        <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js"/>
-        <br/>Node.js
       </td>
       <td align="center">
         <img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="Express"/>
         <br/>Express
       </td>
       <td align="center">
-        <img src="https://skillicons.dev/icons?i=vercel" width="48" height="48" alt="Vercel"/>
-        <br/>Vercel
-      </td>
-      <td align="center">
         <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB"/>
         <br/>MongoDB
       </td>
-      <td align="center">
-        <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL"/>
-        <br/>PostgreSQL
-      </td>
-    </tr>
+    </tr>    
+    <!-- Row 4: Tools & Platforms -->
     <tr>
       <td align="center">
-        <img src="https://skillicons.dev/icons?i=firebase" width="48" height="48" alt="Firebase"/>
-        <br/>Firebase
+        <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="SQL"/>
+        <br/>SQL
+      </td>
+      <td align="center">
+        <img src="./assets/logos/pandas-logo.png" style="border-radius:10px;" width="48" height="48" alt="Pandas"/>
+        <br/>Pandas
+      </td>
+      <td align="center">
+        <img src="./assets/logos/numpy.webp" style="border-radius:10px;" width="48" height="48" alt="Numpy"/>
+        <br/>Numpy
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=vercel" width="48" height="48" alt="Vercel"/>
+        <br/>Vercel
       </td>
       <td align="center">
         <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman"/>
         <br/>Postman
       </td>
       <td align="center">
-        <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git"/>
-        <br/>Git
-      </td>
-      <td align="center">
-        <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux"/>
-        <br/>Linux
-      </td>
-      <td align="center">
         <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code"/>
         <br/>VS Code
-      </td>
-      <td align="center">
-        <img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="Figma"/>
-        <br/>Figma
       </td>
     </tr>
   </table>
@@ -189,28 +199,30 @@ Linux, Git, Vercel, Postman, VS Code, Figma
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
 </div>
 
+## 🏗️ **Experience Highlights**
 
-## 🏗️ Experience Highlights
+> ### 🔹 **Academic Projects & Research (Jadavpur University)**
+<img src="./assets/logos/Ju_Logo.png" style="border-radius:10px;" height="48" alt="Jadavpur university"/>
 
-### 🔹 VLSI Designer  
-**Jadavpur University Lab (Sep 2024 – Present)**  
-- RTL design & validation of IoT-specific wireless communication circuits  
-- Built testbenches, conducted waveform analysis, authored technical documentation  
+<code><b>Jadavpur University (Sep 2023 – Present)</b></code>
 
-### 🔹 Embedded Systems Research Assistant  
-**Jadavpur University Lab (Sep 2023 – Aug 2024)**  
-- Designed firmware for MCU-based IoT devices  
-- Hands-on with UART/SPI/I2C, ADC/DAC, PCB prototyping, and embedded Linux  
+- **Digital Clock System** → Designed with counters, 7-segment displays, and crystal oscillator  
+- **Bluetooth-Controlled Nano Car Bot** → Built using Arduino, motor drivers, and wireless module  
+- **Analog Circuit Prototyping** → Hands-on with BJTs, MOSFETs, RC networks, Op-Amps  
+- **Verilog RTL Design Projects** → Half/Full adders, sequential circuits, testbenches, waveform analysis  
+- **Peripheral Interfaces** → Practiced UART, SPI, I²C, ADC/DAC integration and PCB prototyping  
+
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" height="3">
 </p>
 
-## 🔗 Links
+## 🔗 **Links**
 
-- 🔗 Portfolio: [krishnarjun-mitra.vercel.app](https://krishnarjun-mitra.vercel.app)  
-- 🔗 LinkedIn: [linkedin.com/in/krishnarjun-mitra](https://www.linkedin.com/in/krishnarjun-mitra/)  
-- 🔗 GitHub: [github.com/Krishnarjunmitra](https://github.com/Krishnarjunmitra)  
+
+- 🔗 Portfolio: [krishnarjun-mitra.vercel.app](https://krishnarjun-mitra.vercel.app)
+- 🔗 LinkedIn: [linkedin.com/in/krishnarjun-mitra](https://www.linkedin.com/in/krishnarjun-mitra/)
+- 🔗 GitHub: [github.com/Krishnarjunmitra](https://github.com/Krishnarjunmitra)
 - 📧 Email: mailtokrishnarjun@gmail.com
 
 <p align="center">
@@ -225,22 +237,56 @@ Linux, Git, Vercel, Postman, VS Code, Figma
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" height="3">
 </p>
 
-💡 *"I love solving problems with a soldering iron in one hand and a debugger in the other."*
+### 💡 **_"I love solving problems with a soldering iron in one hand and a debugger in the other."_**
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" height="3">
 </p>
+
+## 🏆 **Github Achievements**
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Krishnarjunmitra&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117&title_color=36BCF7&icon_color=36BCF7&text_color=c9d1d9" height="180" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Krishnarjunmitra&theme=tokyonight&hide_border=true&background=0D1117&stroke=36BCF7&ring=36BCF7&fire=36BCF7&currStreakNum=36BCF7&sideNums=36BCF7&currStreakLabel=36BCF7&sideLabels=36BCF7&dates=c9d1d9" height="180" alt="GitHub Streak" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krishnarjunmitra&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=36BCF7&text_color=c9d1d9" alt="Most Used Languages" />
 </div><br>
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-profile-trophy-azure.vercel.app/?username=Krishnarjunmitra&theme=juicyfresh&margin-w=15
-" />
+" /> -->
+</p><p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" height="3">
+</p>
+
+<p align="center">
+I’m always excited to collaborate on projects that blend <b>hardware design, embedded systems, and software innovation</b>.  
+From experimenting with <b>analog circuits</b> and <b>Verilog RTL</b> to exploring <b>full-stack development</b>, I thrive on bridging the gap between low-level design and high-level applications.  
+</p>
+<p align="center">
+Tech, to me, is best when shared—knowledge multiplies when exchanged.  
+Whether it’s <b>hands-on circuit prototyping</b>, <b>developing embedded solutions</b>, or <b>building scalable software systems</b>, I enjoy exchanging ideas, mentoring peers, and learning from the community.  
+</p>
+<p align="center">
+Every project I take up is a chance to <b>solve a real-world problem</b>, refine my skills, and push a little further toward excellence.  
+If my profile resonates with your interests, feel free to connect with me—I’d love to learn, collaborate, and grow together. 🚀  
+</p>
+<p align="center">
+Let’s create solutions that matter, innovate with purpose, and make technology more impactful—one project at a time. 🌍  
+</p>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
+</div>
+
+<p align="center">
+  <b><font size="6">Keep Learning</font></b><br>
+  <b><font size="5">Thank You</font></b>
+</p>
+
+<p align="center">
+  <sub>© 2025 Krishnarjun Mitra. All rights reserved.</sub><br>
+  <sub>Some assets (icons, badges, stats widgets) are sourced from open-source projects and are used under their respective licenses.</sub>
 </p>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&animation=fadeIn" width="100%" />
-</div>
+</div>  
