@@ -30,7 +30,7 @@
 ## 🔧 **Skills Snapshot**
 
 **Hardware & EDA Tools:**  
-Vivado, Quartus, Synopsys, ModelSim, Arduino, MATLAB
+Vivado, Virtuoso, Synopsys, ModelSim, Arduino, MATLAB
 
 **Programming Languages:**  
 C, C++, Python, Verilog, SystemVerilog, JavaScript
@@ -57,8 +57,8 @@ Scikit-learn, Pandas, NumPy
         <br/>Vivado
       </td>
       <td align="center">
-        <img src="https://image.pngaaa.com/836/4783836-small.png" style="border-radius:10px;" width="48" height="48" alt="Intel Quartus"/>
-        <br/>Quartus
+        <img src="./assets/logos/cadence-logo-white.png" style="border-radius:10px;" width="48" height="48" alt="Intel Quartus"/>
+        <br/>Virtuoso
       </td>
       <td align="center">
         <img src="https://tse1.mm.bing.net/th/id/OIP.d3tC6DkEcwAgJTwjz3cs9AAAAA?cb=thfc1&rs=1&pid=ImgDetMain&o=7&rm=3" style="border-radius:10px;" width="48" height="48" alt="Synopsys"/>
