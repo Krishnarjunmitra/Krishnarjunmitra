@@ -53,7 +53,7 @@ Scikit-learn, Pandas, NumPy
     <!-- Row 1: Core Hardware / EDA -->
     <tr>
       <td align="center">
-        <img src="./assets/logos/vivado.jpg" style="border-radius:10px;" width="48" height="48" alt="Vivado"/>
+        <img src="./assets/logos/vivado.jpg"  width="48" height="48" alt="Vivado"/>
         <br/>Vivado
       </td>
       <td align="center">
