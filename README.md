@@ -53,15 +53,15 @@ Scikit-learn, Pandas, NumPy
     <!-- Row 1: Core Hardware / EDA -->
     <tr>
       <td align="center">
-        <img src="./assets/logos/vivado.jpg" width="48" height="48" alt="Vivado"/>
+        <img src="./assets/logos/vivado.png" width="50" height="50" alt="Vivado"/>
         <br/>Vivado
       </td>
       <td align="center">
-        <img src="./assets/logos/cadence-logo-white.png" style="border-radius:10px;" width="48" height="48" alt="Intel Quartus"/>
+        <img src="./assets/logos/cadence-logo-white.png" width="48" height="48" alt="Intel Quartus"/>
         <br/>Virtuoso
       </td>
       <td align="center">
-        <img src="https://tse1.mm.bing.net/th/id/OIP.d3tC6DkEcwAgJTwjz3cs9AAAAA?cb=thfc1&rs=1&pid=ImgDetMain&o=7&rm=3" style="border-radius:10px;" width="48" height="48" alt="Synopsys"/>
+        <img src="./assets/logos/synopsys.png" width="48" height="48" alt="Synopsys"/>
         <br/>Synopsys
       </td>
       <td align="center">
@@ -73,8 +73,8 @@ Scikit-learn, Pandas, NumPy
         <br/>MATLAB
       </td>
       <td align="center">
-        <img src="https://tse4.mm.bing.net/th/id/OIP.VWr0AUVezAljNO-xSeP_VwAAAA?cb=thfc1&rs=1&pid=ImgDetMain&o=7&rm=3" style="border-radius:10px;" width="48" height="48" alt="Modelsim"/>
-        <br/>Modelsim
+        <img src="./assets/logos/multisim.png" width="48" height="48" alt="Multisim"/>
+        <br/>Multisim
       </td>
     </tr>    
     <!-- Row 2: Programming Languages -->
@@ -92,11 +92,11 @@ Scikit-learn, Pandas, NumPy
         <br/>Python
       </td>
       <td align="center">
-        <img src="./assets/logos/system_verilog.png" style="border-radius:10px;" width="48" height="48" alt="System verilog"/>
+        <img src="./assets/logos/system_verilog.png" width="48" height="48" alt="System verilog"/>
         <br/>System Verilog
       </td>
       <td align="center">
-        <img src="./assets/logos/verilog.jpg" style="border-radius:10px;" width="48" height="48" alt="Verilog"/>
+        <img src="./assets/logos/verilog.png" width="48" height="48" alt="Verilog"/>
         <br/>Verilog
       </td>
       <td align="center">
@@ -138,11 +138,11 @@ Scikit-learn, Pandas, NumPy
         <br/>SQL
       </td>
       <td align="center">
-        <img src="./assets/logos/pandas-logo.png" style="border-radius:10px;" width="48" height="48" alt="Pandas"/>
+        <img src="./assets/logos/pandas-logo.png" width="48" height="48" alt="Pandas"/>
         <br/>Pandas
       </td>
       <td align="center">
-        <img src="./assets/logos/numpy.webp" style="border-radius:10px;" width="48" height="48" alt="Numpy"/>
+        <img src="./assets/logos/numpy.webp" width="48" height="48" alt="Numpy"/>
         <br/>Numpy
       </td>
       <td align="center">
@@ -202,7 +202,7 @@ Scikit-learn, Pandas, NumPy
 ## 🏗️ **Experience Highlights**
 
 > ### 🔹 **Academic Projects & Research (Jadavpur University)**
-<img src="./assets/logos/Ju_Logo.png" style="border-radius:10px;" height="48" alt="Jadavpur university"/>
+<img src="./assets/logos/Ju_Logo.png" height="48" alt="Jadavpur university"/>
 
 <code><b>Jadavpur University (Sep 2023 – Present)</b></code>
 
