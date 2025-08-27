@@ -53,7 +53,7 @@ Scikit-learn, Pandas, NumPy
     <!-- Row 1: Core Hardware / EDA -->
     <tr>
       <td align="center">
-        <img src="./assets/logos/vivado.jpg"  width="48" height="48" alt="Vivado"/>
+        <img src="./assets/logos/vivado.jpg" width="48" height="48" alt="Vivado"/>
         <br/>Vivado
       </td>
       <td align="center">
@@ -92,7 +92,7 @@ Scikit-learn, Pandas, NumPy
         <br/>Python
       </td>
       <td align="center">
-        <img src="https://eirikpre.gallerycdn.vsassets.io/extensions/eirikpre/systemverilog/0.13.11/1736203680374/Microsoft.VisualStudio.Services.Icons.Default" style="border-radius:10px;" width="48" height="48" alt="System verilog"/>
+        <img src="./assets/logos/system_verilog.png" style="border-radius:10px;" width="48" height="48" alt="System verilog"/>
         <br/>System Verilog
       </td>
       <td align="center">
