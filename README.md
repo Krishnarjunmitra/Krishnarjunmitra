@@ -30,7 +30,7 @@
 ## 🔧 **Skills Snapshot**
 
 **Hardware & EDA Tools:**  
-Vivado, Virtuoso, Synopsys, ModelSim, Arduino, MATLAB
+Vivado, Virtuoso, Synopsys, MultiSim, Arduino, MATLAB
 
 **Programming Languages:**  
 C, C++, Python, Verilog, SystemVerilog, JavaScript
